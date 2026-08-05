@@ -1,9 +1,10 @@
-<div style="background-color: #1a1a1a; color: #ffffff; padding: 30px; border-radius: 8px; font-family: 'Georgia', serif; max-width: 550px; text-align: center; margin: 20px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <p style="font-size: 1.3rem; line-height: 1.6; margin-bottom: 15px;">
-    "Work hard in silence; let your success be your noise. True devotion needs no stage."
-  </p>
-  <span style="display: inline-block; width: 40px; height: 2px; background-color: #ffb400; margin-bottom: 10px;"></span>
-  <p style="font-size: 0.85rem; color: #aaa; margin: 0; font-family: sans-serif; text-transform: uppercase;">
-    — Frank Ocean
-  </p>
-</div>
+<figure style="background-color: #fffbe0; border: 1px solid #fef08a; padding: 25px; font-family: 'Times New Roman', Times, serif; max-width: 580px; margin: 20px auto; text-align: center; border-radius: 8px;">
+  <blockquote style="margin: 0; padding: 0;">
+    <p style="font-size: 1.25rem; color: #1c1917; line-height: 1.6; margin-bottom: 12px;">
+      "When do you think people die? When they are shot through the heart by a bullet? No. It’s when... they are forgotten. Do the work that matters, even when no one is watching."
+    </p>
+  </blockquote>
+  <figcaption style="font-size: 0.9rem; color: #854d0e; font-style: italic; font-family: sans-serif;">
+    — Dr. Hiluluk
+  </figcaption>
+</figure>
