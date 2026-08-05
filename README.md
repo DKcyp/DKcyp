@@ -1,1 +1,1 @@
-<h1>Yoloooo, Gitu Aja Be humble</h1>
+<h1>Be humble</h1>
