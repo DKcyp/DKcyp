@@ -8,7 +8,4 @@ The more you try to satisfy it, the more unbearable it becomes.
 It tells you that what you want most is what you cannot have—and what you cannot have is something you already had, and lost."
     </p>
   </blockquote>
-  <figcaption style="font-size: 0.9rem; color: #854d0e; font-style: italic; font-family: sans-serif;">
-    — Dr. Hiluluk
-  </figcaption>
 </figure>
